@@ -3,8 +3,8 @@ name: 'Check'
 on:
   push:
   schedule:
-  # 4:30 + 8:00=12:30
-  - cron: '30 4 * * *' 
+  # 4:15 + 8:00 = 12:15
+  - cron: '15 4 * * *' 
 
 jobs:
   bot:
