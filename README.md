@@ -130,7 +130,7 @@ QQ邮箱smtp密码获取如下：
 
 ### Step.4 测试
 
-push打卡测试一下
+push打卡测试一下 
 ![test1](./pic/test1.png)
 ![test2](./pic/test2.png)
 
